@@ -1,0 +1,70 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Zhang Jiahui</title>
+  <desc id="desc">AI Agent Engineering, Reliable Systems, Evidence-Driven Diagnostics</desc>
+  <defs>
+    <linearGradient id="background" x1="52" y1="24" x2="1120" y2="342" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.5" stop-color="#0F2942"/>
+      <stop offset="1" stop-color="#10203A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="766" y1="82" x2="1051" y2="275" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.52" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(933 181) rotate(90) scale(228 286)">
+      <stop stop-color="#38BDF8" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#020617" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#background)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="27" stroke="#38BDF8" stroke-opacity="0.2" stroke-width="2"/>
+  <ellipse cx="933" cy="181" rx="286" ry="228" fill="url(#glow)"/>
+
+  <g opacity="0.12" stroke="#7DD3FC">
+    <path d="M0 76H1200"/>
+    <path d="M0 180H1200"/>
+    <path d="M0 284H1200"/>
+    <path d="M188 0V360"/>
+    <path d="M396 0V360"/>
+    <path d="M604 0V360"/>
+    <path d="M812 0V360"/>
+    <path d="M1020 0V360"/>
+  </g>
+
+  <g transform="translate(80 72)">
+    <rect width="9" height="215" rx="4.5" fill="url(#accent)"/>
+    <text x="38" y="39" fill="#7DD3FC" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="4">HELLO, I AM</text>
+    <text x="36" y="108" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="750">Zhang Jiahui</text>
+    <text x="39" y="154" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="500">AI Agent Engineering · Reliable Systems</text>
+    <text x="39" y="193" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="18">Evidence-driven diagnostics, from tool call to final answer.</text>
+  </g>
+
+  <g transform="translate(865 180)" filter="url(#shadow)">
+    <path d="M0-86 74-43 74 43 0 86-74 43-74-43 0-86Z" fill="#0F172A" stroke="url(#accent)" stroke-width="3"/>
+    <path d="M0-52 44-26 44 26 0 52-44 26-44-26 0-52Z" fill="#111E33" stroke="#38BDF8" stroke-opacity="0.7" stroke-width="2"/>
+    <circle cx="0" cy="0" r="13" fill="url(#accent)"/>
+    <circle cx="0" cy="-52" r="7" fill="#7DD3FC"/>
+    <circle cx="44" cy="26" r="7" fill="#818CF8"/>
+    <circle cx="-44" cy="26" r="7" fill="#A78BFA"/>
+    <path d="M0-39V-14M12 7 34 20M-12 7-34 20" stroke="#E0F2FE" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <g transform="translate(1014 88)" fill="#BAE6FD">
+    <circle r="4"/>
+    <circle cx="42" cy="20" r="3" opacity="0.7"/>
+    <circle cx="17" cy="61" r="2.5" opacity="0.55"/>
+    <path d="M4 2 39 18M40 23 19 58" stroke="#7DD3FC" stroke-opacity="0.35"/>
+  </g>
+
+  <g transform="translate(1057 236)" fill="#C4B5FD">
+    <circle r="3.5"/>
+    <circle cx="-36" cy="22" r="2.5" opacity="0.65"/>
+    <circle cx="10" cy="55" r="4" opacity="0.8"/>
+    <path d="M-3 3-33 20M2 5 9 51" stroke="#A78BFA" stroke-opacity="0.4"/>
+  </g>
+</svg>
